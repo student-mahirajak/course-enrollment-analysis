@@ -40,3 +40,4 @@ The goal is to analyze course enrollment data from different cities and visualiz
 1. Clone this repository:
    ```bash
    
+   git clone https://github.com/student-mahirajak/course-enrollment-analysis.git
